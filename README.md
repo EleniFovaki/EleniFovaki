@@ -12,5 +12,5 @@ Here are some ideas to get you started:-->
 💬 Ask me about if I am currently available for collaboration via my Linkdn page.</br>
 📫 How to reach me: Via mail: fovakieleni@gmail.com and my Linkdn page: https://www.linkedin.com/in/elenifovaki055/</br>
 😄 Pronouns: she/her</br>
-⚡ Fun fact: I don't like gaming that much (I know I know!), but I do enjoy reading, sports, music concerts and swimming in the sumertime. Also I try to make Tik Toks to inspire fellow girl programmers!
+⚡ Fun fact: I don't like gaming that much (I know I know!), but I do enjoy reading, sports, music concerts and swimming in the sumertime. Also I try to make TikToks to inspire fellow girl programmers!
 
