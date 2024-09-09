@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am <b>Eleni Fovaki</b> and I am a software engineer from Athens, Greece. 
+I am <b>Eleni Fovaki</b> and I am a software engineer from Athens, Greece, based in Utrecht, the Netherlands. 
 <!--
 **EleniFovaki/EleniFovaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
