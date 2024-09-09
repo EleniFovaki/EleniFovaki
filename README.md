@@ -6,7 +6,7 @@ I am <b>Eleni Fovaki</b> and I am a software engineer from Athens, Greece.
 Here are some ideas to get you started:-->
 
  🔭 I’m currently working on a large scale ERP/CRM system for billing the energy sector in Greece ([Protergia.gr](https://www.protergia.gr/) is using it) and experimenting with javascript libraries such as React.js and node.js. </br>
- 🌱 I’m currently learning Java and machine learning basics.</br>
+ 🌱 I’m currently learning Docker and machine learning basics.</br>
  <!--👯 I’m looking to collaborate on energy market projects.-->
 
 💬 Ask me about: if I am currently available for collaborations via my Linkdn page.</br>
