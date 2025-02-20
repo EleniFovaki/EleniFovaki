@@ -3,7 +3,7 @@ I am <b>Eleni Fovaki</b> and I am a software engineer.
 
 I major in .NET ecosystem technologies and Javascript libraries, such as React.js and node.js.
 
-I’m currently interested in full stack web development, testing methodologies, cloud technologies and machine learning.
+I’m currently interested in full stack web development, cloud technologies and machine learning.
 
  Ask me about: if I am currently available for collaborations via my Linkdn page.</br>
 📫 How to reach me: Via mail => fovakieleni@gmail.com and/or my Linkdn page => https://www.linkedin.com/in/elenifovaki055/</br>
